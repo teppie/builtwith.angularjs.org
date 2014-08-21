@@ -3580,7 +3580,21 @@
         "No jQuery",
         "Bootstrap"
       ]
-    }
-
+    },
+	{
+  	  "name": "Westminster Abbey website",
+  	  "thumb": "westminster-abbey/thumb.png",
+  	  "desc": "Kings, queens, statesmen and soldiers; poets, priests, heroes and villains - the Abbey is a must-see living pageant of British history. The new Westminster Abbey website (launched August 2014) was built using AngularJS and features: geo-location based content, adaptable templates for mobile devices and search-generated history pages making finding, learning and exploring the Abbey’s history really easy.",
+  	  "url": "http://www.westminster-abbey.org",
+  	  "submitter": "teppie",
+  	  "submissionDate": "2014-08-21",
+  	  "tags": [
+  	  	"Website", "Production",
+  	  	"Education", "History", "Culture", "Heritage",
+  	  	"Funnelback", "SquizMatrix", "git", "sass", "Grunt", "HTML5",
+  	  	"Bootstrap",
+  	  	"jQuery"
+  	  ]
+  	 }
   ]
 }
